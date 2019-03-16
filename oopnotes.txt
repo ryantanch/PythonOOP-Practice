@@ -6,7 +6,7 @@ NOTES
 #subclasses - Inheritance 
 #super() superclass 
 #isinstance()- tells us if object is instance of a class
-#issubbclass()-tells us if a subclass is a subclass of another 
+#issubclass()-tells us if a subclass is a subclass of another 
 #__repr__ uses for debugging , logging .. etc
 #__str__ readable representation to end user 
 #@property makes methods become getters
