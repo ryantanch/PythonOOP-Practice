@@ -1,0 +1,13 @@
+NOTES
+
+
+#class method can be used for creating different objects
+#static methods does not depend on any instance or class variable , write static methods if you do not access the instance or the class
+#subclasses - Inheritance 
+#super() superclass 
+#isinstance()- tells us if object is instance of a class
+#issubbclass()-tells us if a subclass is a subclass of another 
+#__repr__ uses for debugging , logging .. etc
+#__str__ readable representation to end user 
+#@property makes methods become getters
+#methods.setter creates a setter for the methods
